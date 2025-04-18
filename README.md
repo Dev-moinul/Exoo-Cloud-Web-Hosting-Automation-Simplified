@@ -1,4 +1,3 @@
-Sure! Here's a large `.md` (Markdown) file draft for **Exoo Cloud**, including sections like Overview, Features, Installation, Configuration, API, and more. This would be suitable for use as documentation or a README file.
 
 ---
 
