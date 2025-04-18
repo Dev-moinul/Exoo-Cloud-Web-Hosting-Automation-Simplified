@@ -60,7 +60,7 @@ Exoo Cloud helps you automate and streamline your hosting business operations wi
 
 2. **Installation Steps:**
    ```bash
-   git clone https://github.com/exoo/exoo-cloud.git
+   git clone https://github.com/exoo/exoo-cloud](https://github.com/Dev-moinul/Exoo-Cloud-Web-Hosting-Automation-Simplified.git
    cd exoo-cloud
    composer install
    cp .env.example .env
