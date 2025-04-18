@@ -175,6 +175,3 @@ Exoo Cloud is released under the [MIT License](LICENSE).
 © 2025 Exoo Cloud. All rights reserved.
 ```
 
----
-
-Would you like me to create a downloadable `.md` file from this or add branding and visuals to it?
