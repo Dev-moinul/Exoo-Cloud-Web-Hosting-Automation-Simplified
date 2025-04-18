@@ -1,6 +1,3 @@
-
----
-
 ```markdown
 # Exoo Cloud - Web Hosting Billing & Management System
 
