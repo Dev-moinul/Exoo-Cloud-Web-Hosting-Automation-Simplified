@@ -1,9 +1,7 @@
-```markdown
+
 # Exoo Cloud - Web Hosting Billing & Management System
 
 **Exoo Cloud** is a powerful, scalable, and user-friendly billing and automation platform for web hosting businesses. Designed to be a modern alternative to WHMCS, Exoo Cloud empowers providers to manage clients, automate services, and handle support with ease.
-
----
 
 ## 🌐 Overview
 
